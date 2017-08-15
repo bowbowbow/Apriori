@@ -72,7 +72,6 @@ About input file
 - Row is transaction
 - [item_id] is a numerical value
 - There is no duplication of items in each transaction
-- example : [input.txt](/uploads/c0b53cb1c9cd30e4f263e42cb3f3333b/input.txt)
 
 About output file
 ============
