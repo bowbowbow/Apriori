@@ -15,7 +15,7 @@ To run the implementation
 > 
 > (Note that -std=c++11 option is must be given in g++.)
 
-3. Run using following com.
+3. Run using following command.
 > apriori.exe [min support (%)] [input file name] [output file name]
 >
 > ex. apriori.exe 5 input.txt output.txt
